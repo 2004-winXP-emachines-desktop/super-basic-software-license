@@ -1,0 +1,13 @@
+Free and Open Source Software License
+
+This software is provided under the following terms:
+
+1. Use as-is: The software is provided "as-is," without any warranties or guarantees of any kind. The creators are not liable for any issues or damages arising from its use.
+
+2. Open Source: You are free to use, modify, and distribute this software for any purpose. However, any distribution  of this software must include proper attribution to the original authors.
+
+By using, modifying, or distributing this software, you agree to the above terms.
+
+[Original authors' names]
+
+[Date of release]
